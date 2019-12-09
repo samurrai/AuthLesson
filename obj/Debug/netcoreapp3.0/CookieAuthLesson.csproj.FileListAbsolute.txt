@@ -142,3 +142,4 @@ C:\Users\шадикьянр\source\repos\CookieAuthLesson\CookieAuthLesson\obj\D
 C:\Users\шадикьянр\source\repos\CookieAuthLesson\CookieAuthLesson\obj\Debug\netcoreapp3.0\CookieAuthLesson.pdb
 C:\Users\шадикьянр\source\repos\CookieAuthLesson\CookieAuthLesson\obj\Debug\netcoreapp3.0\Razor\Views\Auth\Index.cshtml.g.cs
 C:\Users\шадикьянр\source\repos\CookieAuthLesson\CookieAuthLesson\obj\Debug\netcoreapp3.0\CookieAuthLesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\шадикьянр\source\repos\CookieAuthLesson\CookieAuthLesson\obj\Debug\netcoreapp3.0\Razor\Views\Auth\Registration.cshtml.g.cs
